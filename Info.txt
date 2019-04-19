@@ -1,0 +1,28 @@
+*********** Updatering 1.11 ***************************** 
+Lagt till fiende Mig29s luft grupp i kudapsta.
+Lagt till fiende MI24 grupp i kudapsta.
+Carrier group till lagt o flyttat F18c hit och lagt till nya F14b.
+Bytat enheter till lite svårare mark mål o fler vid bron i kudapsta.
+Lagt till Georgian Airforce med SU25t.
+Lagt till FN sida i konflikten med AJS37.
+
+
+
+************* To do lista update 1.12 *****************
+*Adda waypoints till objekten.
+*Adda Texaco för luft tankning.
+*Adda KA50 till Georgian Airforce.
+*Updatera senario infon med tacan och ils info.
+*Adda knepad med info ils tacan o bas information.
+
+
+************** Ider till 1.13 ***********************
+*
+*
+*
+*
+*
+
+Kompleterad märks som exempel nere med stjärna efter upgiften.
+*Adda Mig29s.*
+*Adda AJS37.*  
