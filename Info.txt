@@ -8,19 +8,21 @@ Lagt till FN sida i konflikten med AJS37.
 
 
 
-************* To do lista update 1.12 *****************
-*Adda waypoints till objekten.
-*Adda Texaco för luft tankning.
-*Adda KA50 till Georgian Airforce.
-*Updatera senario infon med tacan och ils info.
-*Adda knepad med info ils tacan o bas information.
-
+************* Updatering 1.12 *****************
+Adda waypoints till objekten.
+Adda Texaco för luft tankning.
+Updatera senario infon med tacan och ils info.
+Flyttat och utökat flottan.
+Standard radio frekvenser förprogrammerade 124Mhz & 251Mhz.
+Lagt till F15C.
+Ändrat Loadout på F14B (5xPheenix+4xMK82)
+Flyttat "Bulls Eye" till inflygnings waypoint.
 
 ************** Ider till 1.13 ***********************
-*
-*
-*
-*
+*Adda KA50 till Georgian Airforce.
+*Adda knepad med info ils tacan o bas information.
+*Konvoj som spawnar in 
+*2xMig29s som spawnar när staden är tagen.
 *
 
 Kompleterad märks som exempel nere med stjärna efter upgiften.
