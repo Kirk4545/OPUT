@@ -10,16 +10,23 @@ Lagt till FN sida i konflikten med AJS37.
 
 ************* Updatering 1.12 *****************
 Adda waypoints till objekten.
-Texaco för luft tankning. Tacan 1Y.
+Texaco för luft tankning. Tacan 1Y. 51 waypoints, 20000ft, 250kts
 Updatera senario infon med tacan och ils info.
 Flyttat och utökat flottan. LHA-1 Tarawa Tacan 1X. USS Stennis Tacan 74X, ICLS 1.
 Standard radio frekvenser förprogrammerade 124Mhz & 251Mhz.
-Lagt till F15C.
+Lagt till F15C med waypoints. Callsign "Pontiac" 124 Mhz.
 Ändrat Loadout på F14B (6xPheenix)
 Ändrat Loadout på F/A18C (4xHARM)
 Flyttat "Bulls Eye" till inflygnings waypoint 1.
 
-************** Ider till 1.13 ***********************
+************** Updatering 1.13 ***********************
+Added KA50 with waypoints. Callsign "Enfield" 124 Mhz.
+Added groundforce reinforcement group. Callsign "Warrior" 251 Mhz.
+Edited navy waypoints 
+Edited navy unit names
+Edited AJS37 unit name
+
+************** Framtida Ider ***********************
 *Adda KA50 till Georgian Airforce.
 *Adda knepad med info ils tacan o bas information.
 *Konvoj som spawnar in 
